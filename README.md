@@ -34,15 +34,6 @@ The comic establishes the post-apocalyptic world, introduces the mysterious sign
 - Humanity vs. technological progress
 - A choice between **REBOOT** and **SURVIVE**
 
-### 📕 Comic
-
-[📖 View / Open the Complete Comic](./Comic/The-Last-Signal-Comic.pdf)
-
-### 🖼️ Comic Preview
-
-![The Last Signal — Cover](./Comic/Page-01-Cover.png)
-
----
 
 # 🎥 Round 2 — Video + Audio
 
@@ -58,12 +49,6 @@ The video brings the visual story to life through motion, atmosphere and sound, 
 - Audio-enhanced storytelling
 - Sci-fi mood and immersive experience
 - Visual continuity between Round 1 and Round 2
-
-### 🎬 Watch the Video
-
-[▶️ Watch — The Last Signal | Round 2](./Video/The-Last-Signal-Video.mp4)
-
----
 
 # 🧩 Story at a Glance
 
