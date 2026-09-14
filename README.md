@@ -98,17 +98,17 @@ GigaGen-The-Last-Signal/
 ├── README.md
 │
 ├── Comic/
-│   ├── Page-01-Cover.png
-│   ├── Page-02.png
-│   ├── Page-03.png
-│   ├── Page-04.png
-│   ├── Page-05.png
-│   ├── Page-06.png
-│   ├── Page-07.png
-│   ├── Page-08.png
-│   ├── Page-09.png
-│   ├── Page-10-Final.png
-│   └── The-Last-Signal-Comic.pdf
+│   ├── GigaGen Comic (1).png
+│   ├── GigaGen Comic (2).png
+│   ├── GigaGen Comic (3).png
+│   ├── GigaGen Comic (4).png
+│   ├── GigaGen Comic (5).png
+│   ├── GigaGen Comic (6).png
+│   ├── GigaGen Comic (7).png
+│   ├── GigaGen Comic (8).png
+│   ├── GigaGen Comic (9).png
+│   ├── GigaGen Comic (10).png
+│   └── GigaGen Comic (Round 1 Aishwarya Lala).pdf
 │
 └── Video/
     └── The-Last-Signal-Video.mp4
