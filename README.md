@@ -6,6 +6,18 @@
 
 ---
 
+## 👤 Submission Details
+
+| **Participant** | **Aishwarya Lala**                                               |
+| --------------- | ---------------------------------------------------------------- |
+| **College**     | St. Vincent Pallotti College of Engineering & Technology, Nagpur |
+| **Branch**      | Computer Science & Business Systems (CSBS)                       |
+| **Competition** | GigaGen                                                          |
+| **Project**     | The Last Signal                                                  |
+| **Rounds**      | Round 1 — Comic • Round 2 — Video + Audio                        |
+
+---
+
 ## 🌌 Project Overview
 
 **The Last Signal** is a cinematic science-fiction storytelling project created for the **GigaGen Competition**.
@@ -26,14 +38,15 @@ The comic establishes the post-apocalyptic world, introduces the mysterious sign
 
 ### ✨ Highlights
 
-- 10-page visual narrative
-- Post-apocalyptic science-fiction setting
-- Cinematic world-building
-- Character-driven storytelling
-- Mystery and technological discovery
-- Humanity vs. technological progress
-- A choice between **REBOOT** and **SURVIVE**
+* 10-page visual narrative
+* Post-apocalyptic science-fiction setting
+* Cinematic world-building
+* Character-driven storytelling
+* Mystery and technological discovery
+* Humanity vs. technological progress
+* A choice between **REBOOT** and **SURVIVE**
 
+---
 
 # 🎥 Round 2 — Video + Audio
 
@@ -43,12 +56,14 @@ The video brings the visual story to life through motion, atmosphere and sound, 
 
 ### ✨ Highlights
 
-- Cinematic visual storytelling
-- Video adaptation of the comic narrative
-- Atmospheric presentation
-- Audio-enhanced storytelling
-- Sci-fi mood and immersive experience
-- Visual continuity between Round 1 and Round 2
+* Cinematic visual storytelling
+* Video adaptation of the comic narrative
+* Atmospheric presentation
+* Audio-enhanced storytelling
+* Sci-fi mood and immersive experience
+* Visual continuity between Round 1 and Round 2
+
+---
 
 # 🧩 Story at a Glance
 
@@ -72,10 +87,10 @@ Deep underground lies an ancient technology — the **Pran-Yantra** — sealed a
 
 Humanity faces two possible futures:
 
-**REBOOT**  
+**REBOOT**
 Restore technological civilization, but risk consuming the planet's remaining energy.
 
-**SURVIVE**  
+**SURVIVE**
 Remain technologically primitive and preserve humanity's future.
 
 ---
@@ -110,7 +125,42 @@ GigaGen-The-Last-Signal/
 │   ├── GigaGen Comic (10).png
 │   └── GigaGen Comic (Round 1 Aishwarya Lala).pdf
 │
-└── Video + Audio/ 
-    └── GigaGen Comic (Round 2 Aishwarya Lala Audio).mp3
+└── Video + Audio/
+    ├── GigaGen Comic (Round 2 Aishwarya Lala Audio).mp3
     ├── GigaGen Comic (Round 2 Aishwarya Lala Video).mp4
-    ├── GigaGen Comic (Round 2 Aishwarya Lala Final Video).mp4
+    └── GigaGen Comic (Round 2 Aishwarya Lala Final Video).mp4
+```
+
+---
+
+## 🚀 Project Highlights
+
+**The Last Signal** brings together two forms of AI-assisted creative storytelling:
+
+**ROUND 1 → VISUAL STORYTELLING**
+A 10-page illustrated comic establishing the world, mystery and central conflict.
+
+**ROUND 2 → CINEMATIC STORYTELLING**
+A video adaptation enhanced with audio, motion and atmosphere.
+
+Together, both rounds present a single continuous narrative — **from the discovery of the signal to humanity's ultimate choice.**
+
+---
+
+## 🏁 Final Note
+
+**The Last Signal** is more than a story about technology.
+
+It is a question about what humanity chooses to do when given the power to rebuild.
+
+> **The signal was never asking to be heard.
+> It was asking humanity to choose.**
+
+---
+
+### 👩‍💻 Created by Aishwarya Lala
+
+**Computer Science & Business Systems (CSBS)**
+**St. Vincent Pallotti College of Engineering & Technology, Nagpur**
+
+**GigaGen Competition — Round 1 & Round 2**
