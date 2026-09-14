@@ -110,5 +110,7 @@ GigaGen-The-Last-Signal/
 │   ├── GigaGen Comic (10).png
 │   └── GigaGen Comic (Round 1 Aishwarya Lala).pdf
 │
-└── Video/
-    └── The-Last-Signal-Video.mp4
+└── Video + Audio/ 
+    └── GigaGen Comic (Round 2 Aishwarya Lala Audio).mp3
+    ├── GigaGen Comic (Round 2 Aishwarya Lala Video).mp4
+    ├── GigaGen Comic (Round 2 Aishwarya Lala Final Video).mp4
